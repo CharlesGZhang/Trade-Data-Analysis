@@ -28,3 +28,5 @@ This project analyzes and visualizes a dataset of personal stock trades to ident
   - Trade frequency
   - Trade size
 
+# Insights
+The insights I had for the trader consisted of leaning into their strengths. There was a very obvious discrepancy between types of trades, with more expensive and longer-term trades having a direct correlation with higher Sharpe Ratios. As I continue to monitor this trader's trades, I hope to uncover more insights to help increase returns.
