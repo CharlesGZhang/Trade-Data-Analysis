@@ -1,5 +1,4 @@
 # Trade-Data-Analysis
-Analysis of a stock trader's trade data
 
 This project analyzes and visualizes a dataset of personal stock trades to identify trends, evaluate performance, and assess risk-adjusted returns using metrics like Sharpe Ratio. It groups trades by:
 - Trade Term (Short vs Long)
